@@ -1,5 +1,5 @@
 # mpt-to-tic
-Program that changes Open-MPT tracker copy format into TIC-80 copy format
+Program that changes Open-MPT tracker copy format into TIC-80 copy format so it allow for primitive MIDI/IT/MOD,etc to TIC-80. Doesn't support channels yet.
 
 ![Example](https://i.postimg.cc/VknSrS0m/screen2.gif)
 
